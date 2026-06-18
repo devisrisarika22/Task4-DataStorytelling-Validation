@@ -107,7 +107,7 @@ The goal is to clean raw data, extract meaningful insights, and build a professi
 <img width="1152" height="720" alt="image" src="https://github.com/user-attachments/assets/b8620979-e3d0-42b6-85eb-b57ba3ae6eb0" />
 
 ### Task 3 Dashboard
-![Task 3 Dashboard](Dashboard.png)
+<img width="1124" height="635" alt="Dashboard png" src="https://github.com/user-attachments/assets/2e974579-c6d2-4c95-ae30-380576e17165" /> 
 
 ---
 
